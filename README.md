@@ -20,10 +20,6 @@ A simple in-browser code editor that lets you write HTML, CSS, and JavaScript an
 - JavaScript (Vanilla JS)
 - Font Awesome (for icons)
 
----
-
----
-
 ## ⚙️ How It Works
 
 - The editor has three text areas:
